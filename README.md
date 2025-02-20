@@ -17,6 +17,9 @@ Hey, meu nome é Rebeca Prado! Sou estudante de programação, e atualmente esto
 <br/>
 
 
+[![Rebeca Prado stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rebecaprado01/github-readme-stats)
+
+
 
 
 
