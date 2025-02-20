@@ -15,10 +15,13 @@ Hey, meu nome é Rebeca Prado! Sou estudante de programação, e atualmente esto
 </a>   
 </p>
 <br/>
-
+<br>
 
 [![Rebeca Prado stats](https://github-readme-stats.vercel.app/api?username=rebecaprado01)](https://github.com/rebecaprado01/github-readme-stats)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaprado01)](https://github.com/rebecaprado01/github-readme-stats)
 
 
 
