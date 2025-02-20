@@ -11,7 +11,7 @@ Hey, meu nome é Rebeca Prado! Sou estudante de programação, e atualmente esto
 
 <p>
   <a href="https://www.linkedin.com/in/rebeca-prado-santana/">
- <img width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+ <img align="left" alt="linkedin" width"22px" src="http://www.w3.org/2000/svg"
 </a>   
 </p>
 <br/>
