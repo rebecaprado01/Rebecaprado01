@@ -11,8 +11,8 @@ Hey, meu nome é Rebeca Prado! Sou estudante de programação, e atualmente esto
 
 <p>
   <a href="https://www.linkedin.com/in/rebeca-prado-santana/">
-  <img align"left" alt="Linkedin" width="22px" src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>   
+  <img align"left" alt="Linkedin" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>   
 </p>
 <br/>
 
