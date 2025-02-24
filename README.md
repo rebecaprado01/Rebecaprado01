@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋💻
 Hey, meu nome é Rebeca Prado! Sou estudante de programação, e atualmente estou apredendo e criando projetos com:
 
 
